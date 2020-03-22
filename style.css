@@ -277,7 +277,6 @@
 }
 #ifatailletxt{
     font-size: 16px;
-    pa
 }
 
 .titre4{
@@ -392,3 +391,38 @@ form {
   button {
     margin-left: .5em;
   }
+
+.site-footer{
+    background-color:#26272b;
+    padding:45px 0 20px;
+    font-size:15px;
+    line-height:24px;
+    color:white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.réseaux{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas:
+    "img1 img2";
+    justify-items: center;
+    align-items: center;
+}
+
+.linkedinimg1{
+    grid-area: img1;
+    width: 10%;
+}
+#linkedintaille{
+    width: 40%;
+}
+
+.youtubeimg2{
+    grid-area: img2;
+}
+#yttaille{
+    width: 5%;
+}
+
