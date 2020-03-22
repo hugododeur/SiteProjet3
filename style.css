@@ -301,6 +301,11 @@
 #nws{
     width: 100%;
 }
+#nwstxt{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    color: #2d5c88;
+}
 
 .articleimg2{
     grid-area: img2;
@@ -308,6 +313,11 @@
 #pp{
     width: 80%;
     padding: 40px;
+}
+#pptxt{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    color: #2d5c88;
 }
 
 .articleimg3{
@@ -317,12 +327,21 @@
     width: 80%;
     padding-right: 2px;
 }
-
+#cinématxt{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    color: #2d5c88;
+}
 .articleimg4{
     grid-area: img4;
 }
 #frenchpunch{
     width: 90%;
+}
+#frenchpunchtxt{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    color: #2d5c88;
 }
 
 .titre5{
