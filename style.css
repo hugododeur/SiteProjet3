@@ -264,7 +264,6 @@
 
 .ifaimg{
     grid-area: img;
-    max-width: 100%;
 }
 #ifatailleimg{
     width: 100%;
@@ -277,6 +276,7 @@
 }
 #ifatailletxt{
     font-size: 16px;
+    pa
 }
 
 .titre4{
@@ -299,28 +299,30 @@
     width: 100px;
 }
 #nws{
-    width: 150%;
+    width: 100%;
 }
 
 .articleimg2{
     grid-area: img2;
 }
 #pp{
-    width: 100%;
+    width: 80%;
+    padding: 40px;
 }
 
 .articleimg3{
     grid-area: img3;
 }
 #cinéma{
-    width: 100%;
+    width: 80%;
+    padding-right: 2px;
 }
 
 .articleimg4{
     grid-area: img4;
 }
 #frenchpunch{
-    width: 150%;
+    width: 90%;
 }
 
 .titre5{
