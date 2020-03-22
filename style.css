@@ -78,23 +78,24 @@
         font-size: 30px;
         font-family: 'Raleway', sans-serif;
 }
-#photoprofil{
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 30%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
-}
 
 .titre1{
     font-size: 30px;
     font-family: 'Raleway', sans-serif;
     color: #2d5c88;
     
-
 }
+
+#photoprofil{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+}
+
 #paragraphe{
     padding: 7%;
     font-size: 16px;
