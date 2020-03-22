@@ -323,6 +323,12 @@
     width: 150%;
 }
 
+.titre5{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    color: #2d5c88;
+}
+
 form {
     margin: 0 auto;
     width: 400px;
